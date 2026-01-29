@@ -1,7 +1,6 @@
-
 ![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=180&section=header&text=dayeong&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
 <br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHpueG56Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/SWoRKslLZOas8/giphy.gif"/>
   
   <h3 align="center">Tech Stack 🛠</h3>
 <p align="center">
